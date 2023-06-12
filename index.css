@@ -1,0 +1,67 @@
+body {
+    background-image: url("images/boxing.jpg");
+    background-repeat: no-repeat;
+    height: 100vh; 
+    background-size: cover;
+    font-family: Oxygen;
+    font-weight: bold;
+    text-align: center;
+    color: #a3220d;
+    text-shadow: 0 0 0 black;
+}
+
+.container {
+    background-color: #efc68d;
+    width: 200px;
+    margin: 50px auto;
+    border: solid 3px #a3220d;
+    padding: 10px; 
+    border-radius: 10px; 
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: #ffffff;
+    text-shadow: -1px 1px 1px black; 
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 50px;
+    border: 2px solid black;
+}
+
+#increment-btn {
+    background: #bf4717;
+}
+
+#increment-btn:hover {
+    background-color: #ff2c0c;
+}
+
+#save-btn {
+    background: #395837;
+}
+
+#save-btn:hover {
+    background-color: #0cee00;
+}
+
+p {
+   color:  #ffffff;
+   text-shadow: -1px 1px 1px black; 
+}
+
